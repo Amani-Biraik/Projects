@@ -1,0 +1,1 @@
+Note: in the description of the project they asked to implement prim's algorithm using min-heap based but we used priority queue as they allowed it later.
